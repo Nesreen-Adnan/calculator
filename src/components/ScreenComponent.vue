@@ -12,6 +12,7 @@ export default {
 .screen {
     display: flex;
     justify-content: flex-end;
+    align-items: center;
     padding: 10px;
     background-color: var(--screenBg);
     color: var(--textColor2);
