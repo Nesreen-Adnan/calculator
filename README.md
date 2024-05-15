@@ -1,29 +1,54 @@
-# calculator-app
+# Frontend Mentor - Calculator app solution
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [Calculator app challenge on Frontend Mentor]
+(https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Recommended IDE Setup
+## Table of contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Overview
 
-## Project Setup
+### The challenge
 
-```sh
-npm install
-```
+Users should be able to:
 
-### Compile and Hot-Reload for Development
+- See the size of the elements adjust based on their device's screen size
+- Perform mathmatical operations like addition, subtraction, multiplication, and division
+- Adjust the color theme based on their preference
+- **Bonus**: Have their initial theme preference checked using `prefers-color-scheme` and have any additional changes saved in the browser
 
-```sh
-npm run dev
-```
+### Screenshot
 
-### Compile and Minify for Production
+(./screenshot.png)
 
-```sh
-npm run build
-```
+
+### Links
+
+- Solution URL: 
+(https://www.frontendmentor.io/solutions/responsive-calculator-app-using-vue-QlogbOBwJP)
+- Live Site URL: (
+https://calculator-challenge23.netlify.app)
+
+
+## My process
+
+### Built with
+
+- Pugjs
+- Scss
+- Vue - JS library
+
+
+## Author
+
+Nesrain Adnan Mashaabi.
+- Website (https://nesrain-mashaabi.netlify.app)
+- Frontend Mentor ( https://www.frontendmentor.io/profile/Nesreen-Adnan)
