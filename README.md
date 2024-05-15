@@ -45,6 +45,7 @@ https://calculator-challenge23.netlify.app)
 - Pugjs
 - Scss
 - Vue - JS library
+- Vite
 
 
 ## Author
